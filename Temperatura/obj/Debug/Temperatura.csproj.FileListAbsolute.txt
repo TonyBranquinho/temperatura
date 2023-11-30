@@ -1,0 +1,7 @@
+C:\temp\ws-vs2019\Temperatura\Temperatura\obj\Debug\Temperatura.csproj.AssemblyReference.cache
+C:\temp\ws-vs2019\Temperatura\Temperatura\obj\Debug\Temperatura.csproj.CoreCompileInputs.cache
+C:\temp\ws-vs2019\Temperatura\Temperatura\bin\Debug\Temperatura.exe.config
+C:\temp\ws-vs2019\Temperatura\Temperatura\bin\Debug\Temperatura.exe
+C:\temp\ws-vs2019\Temperatura\Temperatura\bin\Debug\Temperatura.pdb
+C:\temp\ws-vs2019\Temperatura\Temperatura\obj\Debug\Temperatura.exe
+C:\temp\ws-vs2019\Temperatura\Temperatura\obj\Debug\Temperatura.pdb
